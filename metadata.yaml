@@ -1,0 +1,52 @@
+_repo: Death-of-a-mutant_73431
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Emsh
+    - Emsh, Ed
+    - Alexander, Ed
+    - Emshwiller, Edmund A.
+    - Willer
+    - EMSH
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: https://en.wikipedia.org/wiki/Ed_Emshwiller
+creator:
+  author:
+    agent_name: De Vet, Charles V.
+    aliases:
+    - DeVet, Charles V.
+    - Vet, Charles V. de
+    - Vet, Charles Vincent de
+    birthdate: 1911
+    deathdate: 1997
+    gutenberg_agent_id: '32106'
+    url: http://www.gutenberg.org/2009/agents/32106
+description: ''
+gutenberg_issued: '2024-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73431'
+language: en
+pgterms:marc905: 20240318171135devet
+pgterms:marc906: '1956'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bHeadline Publications, Inc., $c1956.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Psychic ability -- Fiction'
+- !lcsh 'Mutation (Biology) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Death of a mutant
+url: http://www.gutenberg.org/ebooks/73431
